@@ -1,57 +1,30 @@
-<header>
+# GitHub Pages Portfolio Publishing
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+A hands-on project for learning how to publish a **static website/blog directly from a GitHub repository** using GitHub Pages and Jekyll.
 
-# GitHub Pages
+## What I learned
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+This repository began as a GitHub Skills exercise and gave me practical experience with:
 
-</header>
+- Enabling GitHub Pages
+- Publishing content from a repository
+- Using Jekyll structure and file conventions
+- Configuring a site through `_config.yml`
+- Creating Markdown-based pages and blog posts
+- Connecting version-controlled content to a live website
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+## Why this matters to my portfolio
 
-## Finish
+GitHub Pages gives me a way to move beyond storing project files and begin **presenting technical learning as a public portfolio**. The site is intended to document projects, reflections, and milestones as I continue developing skills in artificial intelligence, machine learning, deep learning, and robotics.
 
-_Congratulations friend, you've completed this course!_
+## Site content
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+The homepage is in [`index.md`](./index.md), with blog content stored under [`_posts/`](./_posts/).
 
-Your blog is now live and has been deployed!
+## Related projects
 
-Here's a recap of all the tasks you've accomplished in your repository:
+- [Machine Learning & Deep Learning Tools — Comparative Study](https://github.com/jamesdhtxai/machine-learning-deep-learning-tools-comparative-study)
+- [Computer Vision: Object Recognition with CNNs & Transfer Learning](https://github.com/jamesdhtxai/ITAI-Midterm---Real-World-Object-Recognition-Project)
+- [Applied AI Across Industries Portfolio](https://github.com/jamesdhtxai/ITAI-2373-Portfolio)
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+**Learning focus:** technical publishing, GitHub Pages, Jekyll, Markdown, and portfolio development.
