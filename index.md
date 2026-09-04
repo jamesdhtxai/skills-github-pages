@@ -1,13 +1,39 @@
-Welcome to My AI & Robotics Portfolio
+# James Delgado — AI & Robotics Learning Portfolio
 
-This blog is the starting point of a long-term portfolio I’m building as part of my journey toward a bachelor's degree in AI & Robotics. It's where I’ll be documenting my work, projects, reflections, and key milestones as I develop skills in artificial intelligence, machine learning, robotics, and beyond.
+This site documents my ongoing learning in **artificial intelligence, machine learning, deep learning, computer vision, robotics, and the tools used to build technical projects**.
 
-The idea behind this blog isn’t just to share polished deliverables—it’s to capture growth over time. My professor encourages us to treat this as more than just an assignment. It’s a place to build our voice, showcase how we think, and track how our ideas evolve as we learn more about the technology—and its real-world applications.
+I am intentionally keeping a record of both finished work and the learning process behind it. My goal is to show not only what I built, but how my understanding developed from foundational concepts into more advanced AI/ML topics.
 
-Some posts will dive into course-related work, while others might explore side projects, code experiments, or just thoughts on the future of AI. Over time, I hope this becomes a useful and honest record of the work I’m doing—and maybe even something worth sharing with future collaborators, employers, or fellow learners.
+## Featured learning projects
 
+### Machine Learning & Deep Learning Tools — Comparative Study
+A first-principles study of how modern ML/DL libraries, frameworks, platforms, AutoML systems, NLP tools, and developer tools differ in purpose, architecture, usability, performance, support, and scalability.
 
-To kick things off, my first post is a personal reflection on how I use AI tools like ChatGPT in my daily work—and the ethical tensions that come with it. It’s a blend of lived experience and critical analysis, grounded in readings from Forbes and the Financial Times. This piece sets the tone for the rest of the blog: part case study, part personal lens, and fully engaged with the societal implications of AI.
+[View the project on GitHub](https://github.com/jamesdhtxai/machine-learning-deep-learning-tools-comparative-study)
 
-Thanks for stopping by. Let’s see where this goes. 
+### Computer Vision: Object Recognition with CNNs & Transfer Learning
+A learning project exploring the image-classification workflow with TensorFlow/Keras, including data preprocessing, augmentation, pretrained CNNs, transfer learning, validation, and model evaluation.
 
+[View the project on GitHub](https://github.com/jamesdhtxai/ITAI-Midterm---Real-World-Object-Recognition-Project)
+
+### Applied AI Across Industries
+A 12-module portfolio examining AI applications in finance, manufacturing, government, retail, entertainment, and other domains, with attention to practical value, ethics, risk, and organizational impact.
+
+[View the project on GitHub](https://github.com/jamesdhtxai/ITAI-2373-Portfolio)
+
+### Git, GitHub & Jupyter Fundamentals
+A foundational project documenting my early work with repositories, commits, Markdown, Jupyter notebooks, and executable Python cells.
+
+[View the project on GitHub](https://github.com/jamesdhtxai/jupyter-exploration)
+
+## How I approach learning
+
+I tend to work back to **first principles**. If I cannot explain what a tensor, model, framework, library, or training step actually does, I keep working until the terminology and workflow make sense in context. That approach has helped me connect individual tools to the larger data and AI systems they belong to.
+
+My professional background in facilities operations also influences how I think about technology. I naturally look for system dependencies, scalability, real-world constraints, operational impact, and how technical decisions affect people and organizations.
+
+## Why this site exists
+
+This portfolio is meant to capture growth over time. Some projects are foundational, some are course-based, and others explore more advanced AI concepts. Together they show the progression of my technical skills and how I apply structured problem solving to new technology.
+
+Thanks for visiting.
